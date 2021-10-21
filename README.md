@@ -1,5 +1,6 @@
 # ifrc-ns-solidarity
 Scripts to get data from IFRC GO and analyze connections between National Societies (NS).
+
 Developed in support to IFRC for the Everyone Counts Report 2021.
 
 ## Prerequisites
