@@ -28,3 +28,7 @@ df_adjacency.to_csv(f"{dir}/adjacency_matrix_projects.csv")
 
 
 
+point #3: add "early warning systems", since it's about "responding early".
+
+point #5: "detect and take early actions" --> "anticipate, detect and take early actions"
+
