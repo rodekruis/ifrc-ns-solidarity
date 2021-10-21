@@ -1,5 +1,6 @@
 # ifrc-ns-solidarity
-Scripts to get data from GO API and analyze the connections between National Societies (NS)
+Scripts to get data from IFRC GO and analyze connections between National Societies (NS).
+Developed in support to IFRC for the Everyone Counts Report 2021.
 
 ## Prerequisites
 1. [GO API token](https://ifrcgo.org/how-to-use-the-go-api/)
